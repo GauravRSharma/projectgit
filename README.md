@@ -4,7 +4,7 @@
 
 ##Features
 - Linux Fundamental
+- Linux Volumes
+- Git basics
 - Git Advance
 - Git branching 
-- Linux Volumes
-_ Git basics
