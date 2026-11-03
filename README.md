@@ -4,4 +4,5 @@
 
 ##Features
 - Linux Fundamental
--Git Advancec
+- Git Advance
+- Git branching 
